@@ -1,0 +1,51 @@
+/* $Id: local_sample.css,v 1.1 2010/04/08 17:16:16 danprobo Exp $ */
+
+/****************************/
+/* LOCAL CSS                */
+/****************************/
+
+/* Put your custom css and css overrides in this file and  */ 
+/* rename it local.css.  By restricting your css changes   */
+/* to local.css, your changes will not be overwritten when */
+/* upgrading to a new version of this theme.               */
+
+/* Steps to activate local.css:                       */
+/* 1. Add your custom css to this file                */
+/* 2. Rename this file to local.css                   */
+/* 3. Uncomment (remove leading semicolon from ) the  */ 
+/*    following line in your theme's .info file:      */
+/*    ;stylesheets[all][] = local.css                 */
+/* 4. Clear cached data at admin/settings/performance */
+
+/* FONTS */
+@font-face
+{
+    font-family: "MuseoSlab500";
+    src: url("fonts/museo_slab_500-webfont.eot") format("eot"), url("fonts/museo_slab_500-webfont.ttf") format("truetype");
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-family:MuseoSlab500;
+	font-weight:normal;
+}
+
+.site-name
+{
+	display: inline;
+	font-size: 30pt;
+	position: relative;
+}
+
+.site-slogan 
+{
+	display: inline-block;                       
+	font-weight: bold;
+	font-style:italic;
+	color:#555555;
+	position: relative;
+	margin:10px;
+}
+
+margin:10px;
+}

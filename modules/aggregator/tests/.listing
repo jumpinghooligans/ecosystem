@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Oct 21  2011 .
+drwxr-xr-x   3 ftp      ftp          4096 Oct 21  2011 ..
+-rw-r--r--   1 ftp      ftp           284 Oct 21  2011 aggregator_test.info
+-rw-r--r--   1 ftp      ftp          2082 Oct 21  2011 aggregator_test.module
+-rw-r--r--   1 ftp      ftp           572 Oct 21  2011 aggregator_test_atom.xml
+-rw-r--r--   1 ftp      ftp          1046 Oct 21  2011 aggregator_test_rss091.xml

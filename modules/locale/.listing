@@ -1,0 +1,12 @@
+drwxr-xr-x   3 ftp      ftp          4096 Oct 21  2011 .
+drwxr-xr-x  43 ftp      ftp          4096 Oct 16 03:37 ..
+-rw-r--r--   1 ftp      ftp           311 Oct 21  2011 locale-rtl.css
+-rw-r--r--   1 ftp      ftp         53435 Oct 21  2011 locale.admin.inc
+-rw-r--r--   1 ftp      ftp          6609 Oct 21  2011 locale.api.php
+-rw-r--r--   1 ftp      ftp           875 Oct 21  2011 locale.css
+-rw-r--r--   1 ftp      ftp          1520 Oct 21  2011 locale.datepicker.js
+-rw-r--r--   1 ftp      ftp           384 Oct 21  2011 locale.info
+-rw-r--r--   1 ftp      ftp         11903 Oct 21  2011 locale.install
+-rw-r--r--   1 ftp      ftp         43739 Oct 21  2011 locale.module
+-rw-r--r--   1 ftp      ftp        102461 Oct 21  2011 locale.test
+drwxr-xr-x   3 ftp      ftp          4096 Oct 21  2011 tests

@@ -1,0 +1,13 @@
+drwxr-xr-x   5 ftp      ftp          4096 Sep 19 01:48 .
+drwxr-xr-x  12 ftp      ftp          4096 Sep 19 01:48 ..
+-rw-r--r--   1 ftp      ftp          3116 Sep 19 01:48 CHANGELOG.txt
+-rw-r--r--   1 ftp      ftp         18092 Sep 19 01:48 LICENSE.txt
+-rw-r--r--   1 ftp      ftp          4716 Sep 19 01:48 README.txt
+-rw-r--r--   1 ftp      ftp          2948 Sep 19 01:48 UPGRADE.txt
+drwxr-xr-x   2 ftp      ftp          4096 Sep 19 01:48 css
+drwxr-xr-x   2 ftp      ftp          4096 Sep 19 01:48 images
+drwxr-xr-x   2 ftp      ftp          4096 Sep 19 01:48 js
+-rw-r--r--   1 ftp      ftp          2549 Sep 19 01:48 nice_menus.admin.inc
+-rw-r--r--   1 ftp      ftp           340 Sep 19 01:48 nice_menus.info
+-rw-r--r--   1 ftp      ftp          2335 Sep 19 01:48 nice_menus.install
+-rw-r--r--   1 ftp      ftp         24977 Sep 19 01:48 nice_menus.module

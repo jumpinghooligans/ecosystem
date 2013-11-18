@@ -1,0 +1,16 @@
+drwxr-xr-x   2 ftp      ftp          4096 Oct 21  2011 .
+drwxr-xr-x   4 ftp      ftp          4096 Oct 21  2011 ..
+-rw-r--r--   1 ftp      ftp           189 Oct 21  2011 application-octet-stream.png
+-rw-r--r--   1 ftp      ftp           346 Oct 21  2011 application-pdf.png
+-rw-r--r--   1 ftp      ftp           189 Oct 21  2011 application-x-executable.png
+-rw-r--r--   1 ftp      ftp           314 Oct 21  2011 audio-x-generic.png
+-rw-r--r--   1 ftp      ftp           385 Oct 21  2011 image-x-generic.png
+-rw-r--r--   1 ftp      ftp           260 Oct 21  2011 package-x-generic.png
+-rw-r--r--   1 ftp      ftp           265 Oct 21  2011 text-html.png
+-rw-r--r--   1 ftp      ftp           220 Oct 21  2011 text-plain.png
+-rw-r--r--   1 ftp      ftp           220 Oct 21  2011 text-x-generic.png
+-rw-r--r--   1 ftp      ftp           276 Oct 21  2011 text-x-script.png
+-rw-r--r--   1 ftp      ftp           214 Oct 21  2011 video-x-generic.png
+-rw-r--r--   1 ftp      ftp           196 Oct 21  2011 x-office-document.png
+-rw-r--r--   1 ftp      ftp           181 Oct 21  2011 x-office-presentation.png
+-rw-r--r--   1 ftp      ftp           183 Oct 21  2011 x-office-spreadsheet.png

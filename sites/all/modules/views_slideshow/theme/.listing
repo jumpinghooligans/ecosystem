@@ -1,0 +1,12 @@
+drwx------   2 ftp      ftp          4096 Mar  3  2012 .
+drwx------   5 ftp      ftp          4096 Mar  3  2012 ..
+-rw-------   1 ftp      ftp           165 Mar  3  2012 views-slideshow-controls-text-next.tpl.php
+-rw-------   1 ftp      ftp           168 Mar  3  2012 views-slideshow-controls-text-pause.tpl.php
+-rw-------   1 ftp      ftp           173 Mar  3  2012 views-slideshow-controls-text-previous.tpl.php
+-rw-------   1 ftp      ftp           246 Mar  3  2012 views-slideshow-controls-text.tpl.php
+-rw-------   1 ftp      ftp           522 Mar  3  2012 views-slideshow-pager-field-field.tpl.php
+-rw-------   1 ftp      ftp           220 Mar  3  2012 views-slideshow-pager-field-item.tpl.php
+-rw-------   1 ftp      ftp           118 Mar  3  2012 views-slideshow-pager-fields.tpl.php
+-rw-------   1 ftp      ftp           227 Mar  3  2012 views-slideshow-slide-counter.tpl.php
+-rw-------   1 ftp      ftp           730 Mar  3  2012 views-slideshow.tpl.php
+-rw-------   1 ftp      ftp         11871 Mar  3  2012 views_slideshow.theme.inc

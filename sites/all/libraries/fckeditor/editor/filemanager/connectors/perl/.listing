@@ -1,0 +1,10 @@
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 .
+drwxr-xr-x   9 ftp      ftp          4096 Nov  1  2011 ..
+-rw-r--r--   1 ftp      ftp          1702 Nov  1  2011 basexml.pl
+-rw-r--r--   1 ftp      ftp          5512 Nov  1  2011 commands.pl
+-rw-r--r--   1 ftp      ftp          1472 Nov  1  2011 config.pl
+-rw-r--r--   1 ftp      ftp          3312 Nov  1  2011 connector.cgi
+-rw-r--r--   1 ftp      ftp          2782 Nov  1  2011 io.pl
+-rw-r--r--   1 ftp      ftp          2105 Nov  1  2011 upload.cgi
+-rw-r--r--   1 ftp      ftp         18091 Nov  1  2011 upload_fck.pl
+-rw-r--r--   1 ftp      ftp          1343 Nov  1  2011 util.pl

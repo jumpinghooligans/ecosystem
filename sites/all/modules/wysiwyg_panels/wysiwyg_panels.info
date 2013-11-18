@@ -1,0 +1,5 @@
+name = WYSIWYG Panels
+description = Make WYSIWYG works with Panels.
+package = User interface
+core = 6.x
+dependencies[] = panels

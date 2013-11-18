@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Apr 24  2013 .
+drwxr-xr-x   4 ftp      ftp          4096 Apr 24  2013 ..
+-rw-r--r--   1 ftp      ftp          3022 Apr 24  2013 icon.png
+-rw-r--r--   1 ftp      ftp           162 Apr 24  2013 pane-plain-box.css
+-rw-r--r--   1 ftp      ftp           393 Apr 24  2013 pane-plain-box.tpl.php
+-rw-r--r--   1 ftp      ftp          3855 Apr 24  2013 pane_plain_box.inc

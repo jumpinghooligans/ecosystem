@@ -1,0 +1,13 @@
+drwxr-xr-x   2 ftp      ftp          4096 Oct 21  2011 .
+drwxr-xr-x  43 ftp      ftp          4096 Oct 16 03:37 ..
+-rw-r--r--   1 ftp      ftp          1067 Oct 21  2011 shortcut-rtl.css
+-rw-r--r--   1 ftp      ftp           104 Oct 21  2011 shortcut.admin.css
+-rw-r--r--   1 ftp      ftp         25980 Oct 21  2011 shortcut.admin.inc
+-rw-r--r--   1 ftp      ftp          3628 Oct 21  2011 shortcut.admin.js
+-rw-r--r--   1 ftp      ftp          1239 Oct 21  2011 shortcut.api.php
+-rw-r--r--   1 ftp      ftp          2408 Oct 21  2011 shortcut.css
+-rw-r--r--   1 ftp      ftp           335 Oct 21  2011 shortcut.info
+-rw-r--r--   1 ftp      ftp          3053 Oct 21  2011 shortcut.install
+-rw-r--r--   1 ftp      ftp         26143 Oct 21  2011 shortcut.module
+-rw-r--r--   1 ftp      ftp           558 Oct 21  2011 shortcut.png
+-rw-r--r--   1 ftp      ftp         12563 Oct 21  2011 shortcut.test

@@ -1,0 +1,8 @@
+drwxr-xr-x   3 ftp      ftp          4096 Apr 24  2013 .
+drwxr-xr-x  12 ftp      ftp          4096 Sep 19 01:48 ..
+-rw-r--r--   1 ftp      ftp         18092 Apr 24  2013 LICENSE.txt
+-rw-r--r--   1 ftp      ftp           907 Apr 24  2013 README.txt
+-rw-r--r--   1 ftp      ftp           391 Apr 24  2013 jquery_update.info
+-rw-r--r--   1 ftp      ftp          1138 Apr 24  2013 jquery_update.install
+-rw-r--r--   1 ftp      ftp         12682 Apr 24  2013 jquery_update.module
+drwxr-xr-x   5 ftp      ftp          4096 Apr 24  2013 replace

@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Oct 21  2011 .
+drwxr-xr-x   4 ftp      ftp          4096 Oct 21  2011 ..
+-rw-r--r--   1 ftp      ftp         50913 Oct 21  2011 file.test
+-rw-r--r--   1 ftp      ftp           270 Oct 21  2011 file_module_test.info
+-rw-r--r--   1 ftp      ftp          1703 Oct 21  2011 file_module_test.module

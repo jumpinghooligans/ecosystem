@@ -1,0 +1,13 @@
+drwxr-xr-x   2 ftp      ftp          4096 Oct 16 03:37 .
+drwxr-xr-x  43 ftp      ftp          4096 Oct 16 03:37 ..
+-rw-rw-r--   1 ftp      ftp         18092 Oct 16 03:37 LICENSE.txt
+-rw-r--r--   1 ftp      ftp          2332 Oct 16 03:37 README.txt
+-rw-r--r--   1 ftp      ftp         31447 Oct 16 03:37 googleanalytics.admin.inc
+-rw-r--r--   1 ftp      ftp          4607 Oct 16 03:37 googleanalytics.admin.js
+-rw-r--r--   1 ftp      ftp           406 Oct 16 03:37 googleanalytics.info
+-rw-r--r--   1 ftp      ftp         17272 Oct 16 03:37 googleanalytics.install
+-rw-r--r--   1 ftp      ftp          3422 Oct 16 03:37 googleanalytics.js
+-rw-r--r--   1 ftp      ftp         23748 Oct 16 03:37 googleanalytics.module
+-rw-r--r--   1 ftp      ftp         20582 Oct 16 03:37 googleanalytics.test
+-rw-r--r--   1 ftp      ftp          1431 Oct 16 03:37 googleanalytics.tokens.inc
+-rw-r--r--   1 ftp      ftp          2047 Oct 16 03:37 googleanalytics.variable.inc

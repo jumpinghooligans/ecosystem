@@ -1,0 +1,313 @@
+/* $Id: local_sample.css,v 1.1 2010/04/08 17:16:16 danprobo Exp $ */
+
+/****************************/
+/* LOCAL CSS                */
+/****************************/
+
+/* Put your custom css and css overrides in this file and  */ 
+/* rename it local.css.  By restricting your css changes   */
+/* to local.css, your changes will not be overwritten when */
+/* upgrading to a new version of this theme.               */
+
+/* Steps to activate local.css:                       */
+/* 1. Add your custom css to this file                */
+/* 2. Rename this file to local.css                   */
+/* 3. Uncomment (remove leading semicolon from ) the  */ 
+/*    following line in your theme's .info file:      */
+/*    ;stylesheets[all][] = local.css                 */
+/* 4. Clear cached data at admin/settings/performance */
+
+/* FONTS */
+@font-face
+{
+    font-family: "MuseoSlab500";
+    src: url("fonts/museo_slab_500-webfont.eot") format("eot"), url("fonts/museo_slab_500-webfont.ttf") format("truetype");
+}
+
+h1 {
+font-size: 2.2em;
+}
+
+#edit-search-block-form--2
+{
+	border:1px solid #ccc;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-family:MuseoSlab500;
+	font-weight:normal;
+}
+
+#content h2
+{
+	color:#005A8C;
+}
+
+#content img
+{
+	padding:4px;
+	border:1px solid #ccc;
+}
+
+#search-box
+{
+	top:60px !important;
+}
+
+#superfish .menu a, #superfish .menu a:visited
+{
+	padding-left:20px;
+	padding-right:20px;
+}
+
+#superfish .menu li.active-trail li
+{
+background:#25507C;
+background-color:rgba(37, 80, 124, 0.7);
+}
+
+#superfish .menu ul
+{
+	width:215px;
+}
+
+#superfish .menu ul {
+width:215px;
+}
+
+#superfish ul.menu li li:hover ul,
+#superfish ul.menu li li.sfHover ul {
+left:215px;
+}
+
+#superfish ul.menu>li.expanded ul {
+	display:none;
+}
+
+#superfish ul.menu>li.expanded>a
+{
+	padding-right:25px;
+}
+
+#superfish ul.menu>li>ul.menu
+{
+	top:31px;
+	border:1px solid #183861;
+}
+
+#superfish ul.menu>li>ul.menu>li>ul.menu
+{
+	top:-1px;
+}
+
+#superfish .sf-shadow ul
+{
+	-moz-border-radius-bottomleft:0;
+	-moz-border-radius-topright:0;
+	-webkit-border-bottom-left-radius:0;
+	-webkit-border-top-right-radius:0;
+	padding:0;
+	background:none;
+}
+
+#superfish .menu li:hover>a {
+color:#FFB366;
+}
+
+#superfish .menu li li {
+background:#25507C;
+background-color:rgba(37, 80, 124, 0.7);
+}
+
+#superfish .menu li li li {
+background: #25507C;
+background-color:rgba(37, 80, 124, 0.7);
+top: 0px;
+}
+
+#superfish ul.menu li.active-trail>a {
+color:#FFB366;
+}
+
+#superfish ul.menu>li>ul li.active-trail {
+background: #004f90;
+/*background-color:rgba(0, 79, 144, 0.7);*/
+background-color:rgba(37, 80, 124, 0.8);
+}
+
+#superfish .menu li li:hover {
+background: #004f90;
+/*background-color:rgba(0, 79, 144, 0.7);*/
+background-color:rgba(37, 80, 124, 0.8);
+}
+
+#superfish .menu li li:hover>a {
+color:#FFB366;
+}
+
+#superfish .menu li li li:hover {
+background: #004f90;
+/*background-color:rgba(0, 79, 144, 0.7);*/
+background-color:rgba(37, 80, 124, 0.8);
+}
+
+#superfish .menu li li li:hover>a {
+color:#FFB366;
+}
+
+
+.site-name
+{
+	display: inline;
+	font-size: 36pt;
+	position: relative;
+	font-family:MuseoSlab500;
+	font-style:normal;
+	margin:0;
+}
+
+.site-name a:hover
+{
+	color:#005A8C;
+}
+
+.site-slogan 
+{
+	display: inline-block;                       
+	font-weight: normal;
+	font-style:italic;
+	color:#555555;
+	position: relative;
+	margin:10px;
+}
+
+.slideshow-inner
+{
+	width:942px;
+	height:347px;
+	padding:4px;
+	background-color:white;
+	border:1px solid #ccc;
+}
+
+#preface
+{
+	margin:0;
+}
+
+#preface>.region-preface
+{
+	margin:0;
+}
+
+.meta.submitted
+{
+	display:none;
+}
+
+.field-content.overlay
+{
+    position:absolute;
+    z-index:50;
+    
+    width:300px;
+    max-height:317px;
+    
+    padding:15px 10px 0 10px;
+	background-color:black;
+    background-color:rgba(0, 0, 0, 0.65 );
+    color:white;
+}
+
+#preface .field-content.overlay a
+{
+	color:#FFB366;
+	text-decoration:none;
+}
+
+#preface .field-content.overlay a:hover
+{
+	text-decoration:underline;
+}
+
+.views-row-even>.views-row-odd>.field-content.overlay
+{
+    right:0;
+    top:20px;
+	border-right:none;
+}
+
+.views-row-odd>.views-row-odd>.field-content.overlay
+{
+    left:0;
+    bottom:20px;
+	border-left:none;
+}
+
+.region-sidebar-second
+{
+	margin-top:35px;
+}
+
+.literature-row
+{
+	margin:10px 0 10px 0;
+	padding:10px;
+}
+
+.literature-block-row
+{
+	padding:5px 0 5px 0;
+	border-bottom:1px dotted #ccc;
+}
+
+.views-row-last.literature-block-row
+{
+	border-bottom:none;
+	padding-bottom:0;
+}
+
+.views-row-first.literature-block-row
+{
+	padding-top:0;
+}
+
+.views-row-even.literature-row
+{
+	background-color:#eeeeee;
+}
+
+.one-sidebar #content
+{
+	margin-left:10px;
+}
+
+#sidebar-right
+{
+	margin-right:10px;
+}
+
+
+.no-sidebars #content
+{
+	margin:0 10px 0 10px;
+}
+
+.node
+{
+	border-bottom:none;
+	padding-bottom:10px;
+}
+#sidebar-right .block .content
+{
+	padding:10px 10px 5px 10px;
+}
+
+#authorize
+{
+	float:none;
+	position:absolute;
+	
+	right:0;
+}

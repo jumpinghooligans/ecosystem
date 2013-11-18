@@ -1,0 +1,14 @@
+drwx------   5 ftp      ftp          4096 Mar  3  2012 .
+drwxr-xr-x  12 ftp      ftp          4096 Sep 19 01:48 ..
+-rw-------   1 ftp      ftp         18092 Mar  3  2012 LICENSE.txt
+-rw-------   1 ftp      ftp          1182 Mar  3  2012 README.txt
+drwx------   3 ftp      ftp          4096 Mar  3  2012 contrib
+drwx------   2 ftp      ftp          4096 Mar  3  2012 js
+drwx------   2 ftp      ftp          4096 Mar  3  2012 theme
+-rw-------   1 ftp      ftp          5591 Mar  3  2012 views_slideshow.api.php
+-rw-------   1 ftp      ftp           155 Mar  3  2012 views_slideshow.css
+-rw-------   1 ftp      ftp           561 Mar  3  2012 views_slideshow.info
+-rw-------   1 ftp      ftp         16652 Mar  3  2012 views_slideshow.module
+-rw-------   1 ftp      ftp           848 Mar  3  2012 views_slideshow.views.inc
+-rw-------   1 ftp      ftp            95 Mar  3  2012 views_slideshow_controls_text.css
+-rw-------   1 ftp      ftp         11522 Mar  3  2012 views_slideshow_plugin_style_slideshow.inc

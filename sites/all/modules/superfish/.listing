@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Sep 19 01:48 .
+drwxr-xr-x  12 ftp      ftp          4096 Sep 19 01:48 ..
+-rw-r--r--   1 ftp      ftp          5465 Sep 19 01:48 CHANGELOG.txt
+-rw-r--r--   1 ftp      ftp         18092 Sep 19 01:48 LICENSE.txt
+-rw-r--r--   1 ftp      ftp          3184 Sep 19 01:48 README.txt
+-rw-r--r--   1 ftp      ftp          3506 Sep 19 01:48 superfish.admin.inc
+-rw-r--r--   1 ftp      ftp          3209 Sep 19 01:48 superfish.drush.inc
+-rw-r--r--   1 ftp      ftp           337 Sep 19 01:48 superfish.info
+-rw-r--r--   1 ftp      ftp          1876 Sep 19 01:48 superfish.install
+-rw-r--r--   1 ftp      ftp          1445 Sep 19 01:48 superfish.js
+-rw-r--r--   1 ftp      ftp           214 Sep 19 01:48 superfish.make
+-rw-r--r--   1 ftp      ftp         96326 Sep 19 01:48 superfish.module

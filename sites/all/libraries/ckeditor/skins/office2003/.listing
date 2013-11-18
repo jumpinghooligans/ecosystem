@@ -1,0 +1,9 @@
+drwxr-xr-x   3 ftp      ftp          4096 Oct 22  2011 .
+drwxr-xr-x   5 ftp      ftp          4096 Oct 22  2011 ..
+-rw-r--r--   1 ftp      ftp         16465 Oct 22  2011 dialog.css
+-rw-r--r--   1 ftp      ftp         35663 Oct 22  2011 editor.css
+-rw-r--r--   1 ftp      ftp          5598 Oct 22  2011 icons.png
+-rw-r--r--   1 ftp      ftp          5600 Oct 22  2011 icons_rtl.png
+drwxr-xr-x   2 ftp      ftp          4096 Oct 22  2011 images
+-rw-r--r--   1 ftp      ftp          1018 Oct 22  2011 skin.js
+-rw-r--r--   1 ftp      ftp          1586 Oct 22  2011 templates.css

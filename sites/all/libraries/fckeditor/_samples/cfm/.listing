@@ -1,0 +1,11 @@
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 .
+drwxr-xr-x  12 ftp      ftp          4096 Nov  1  2011 ..
+-rw-r--r--   1 ftp      ftp          1763 Nov  1  2011 sample01.cfm
+-rw-r--r--   1 ftp      ftp          2131 Nov  1  2011 sample01_mx.cfm
+-rw-r--r--   1 ftp      ftp          3029 Nov  1  2011 sample02.cfm
+-rw-r--r--   1 ftp      ftp          3413 Nov  1  2011 sample02_mx.cfm
+-rw-r--r--   1 ftp      ftp          2675 Nov  1  2011 sample03.cfm
+-rw-r--r--   1 ftp      ftp          3012 Nov  1  2011 sample03_mx.cfm
+-rw-r--r--   1 ftp      ftp          2820 Nov  1  2011 sample04.cfm
+-rw-r--r--   1 ftp      ftp          3176 Nov  1  2011 sample04_mx.cfm
+-rw-r--r--   1 ftp      ftp          1828 Nov  1  2011 sampleposteddata.cfm

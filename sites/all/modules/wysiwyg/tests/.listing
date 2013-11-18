@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Apr 24  2013 .
+drwxr-xr-x   5 ftp      ftp          4096 Apr 24  2013 ..
+-rw-r--r--   1 ftp      ftp            54 Apr 24  2013 wysiwyg.test
+-rw-r--r--   1 ftp      ftp           331 Apr 24  2013 wysiwyg_test.info
+-rw-r--r--   1 ftp      ftp            83 Apr 24  2013 wysiwyg_test.install
+-rw-r--r--   1 ftp      ftp          1111 Apr 24  2013 wysiwyg_test.module

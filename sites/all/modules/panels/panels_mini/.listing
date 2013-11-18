@@ -1,0 +1,6 @@
+drwxr-xr-x   3 ftp      ftp          4096 Apr 24  2013 .
+drwxr-xr-x  12 ftp      ftp          4096 Apr 24  2013 ..
+-rw-r--r--   1 ftp      ftp           373 Apr 24  2013 panels_mini.info
+-rw-r--r--   1 ftp      ftp          3442 Apr 24  2013 panels_mini.install
+-rw-r--r--   1 ftp      ftp         13477 Apr 24  2013 panels_mini.module
+drwxr-xr-x   4 ftp      ftp          4096 Apr 24  2013 plugins

@@ -1,0 +1,9 @@
+drwxr-xr-x   2 ftp      ftp          4096 Oct 22  2011 .
+drwxr-xr-x   4 ftp      ftp          4096 Oct 22  2011 ..
+-rw-r--r--   1 ftp      ftp          3423 Oct 22  2011 basicwriter.js
+-rw-r--r--   1 ftp      ftp           870 Oct 22  2011 cdata.js
+-rw-r--r--   1 ftp      ftp          1141 Oct 22  2011 comment.js
+-rw-r--r--   1 ftp      ftp          7699 Oct 22  2011 element.js
+-rw-r--r--   1 ftp      ftp          6256 Oct 22  2011 filter.js
+-rw-r--r--   1 ftp      ftp         16092 Oct 22  2011 fragment.js
+-rw-r--r--   1 ftp      ftp          1010 Oct 22  2011 text.js

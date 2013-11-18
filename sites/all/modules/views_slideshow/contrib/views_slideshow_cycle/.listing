@@ -1,0 +1,9 @@
+drwx------   4 ftp      ftp          4096 Mar  3  2012 .
+drwx------   3 ftp      ftp          4096 Mar  3  2012 ..
+-rw-------   1 ftp      ftp           461 Mar  3  2012 README.txt
+drwx------   2 ftp      ftp          4096 Mar  3  2012 js
+drwx------   2 ftp      ftp          4096 Mar  3  2012 theme
+-rw-------   1 ftp      ftp           550 Mar  3  2012 views_slideshow_cycle.css
+-rw-------   1 ftp      ftp           475 Mar  3  2012 views_slideshow_cycle.info
+-rw-------   1 ftp      ftp          3323 Mar  3  2012 views_slideshow_cycle.module
+-rw-------   1 ftp      ftp         21934 Mar  3  2012 views_slideshow_cycle.views_slideshow.inc

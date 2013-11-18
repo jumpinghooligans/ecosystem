@@ -1,0 +1,9 @@
+drwxr-xr-x   2 ftp      ftp          4096 Apr 24  2013 .
+drwxr-xr-x  14 ftp      ftp          4096 Apr 24  2013 ..
+-rw-r--r--   1 ftp      ftp          8957 Apr 24  2013 ajax.js
+-rw-r--r--   1 ftp      ftp          4702 Apr 24  2013 ajax_view.js
+-rw-r--r--   1 ftp      ftp          3087 Apr 24  2013 base.js
+-rw-r--r--   1 ftp      ftp          1132 Apr 24  2013 jquery.ui.dialog.patch.js
+-rw-r--r--   1 ftp      ftp         37770 Apr 24  2013 views-admin.js
+-rw-r--r--   1 ftp      ftp           490 Apr 24  2013 views-contextual.js
+-rw-r--r--   1 ftp      ftp           633 Apr 24  2013 views-list.js

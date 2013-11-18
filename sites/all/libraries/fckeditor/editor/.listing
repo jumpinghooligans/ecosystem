@@ -1,0 +1,17 @@
+drwxr-xr-x  13 ftp      ftp          4096 Nov  1  2011 .
+drwxr-xr-x   4 ftp      ftp          4096 Nov  1  2011 ..
+drwxr-xr-x   5 ftp      ftp          4096 Nov  1  2011 _source
+drwxr-xr-x   4 ftp      ftp          4096 Nov  1  2011 css
+drwxr-xr-x  12 ftp      ftp          4096 Nov  1  2011 dialog
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 dtd
+-rw-r--r--   1 ftp      ftp          3933 Nov  1  2011 fckdebug.html
+-rw-r--r--   1 ftp      ftp         22096 Nov  1  2011 fckdialog.html
+-rw-r--r--   1 ftp      ftp         12191 Nov  1  2011 fckeditor.html
+-rw-r--r--   1 ftp      ftp         17408 Nov  1  2011 fckeditor.original.html
+drwxr-xr-x   4 ftp      ftp          4096 Nov  1  2011 filemanager
+drwxr-xr-x   3 ftp      ftp          4096 Nov  1  2011 images
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 js
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 lang
+drwxr-xr-x   8 ftp      ftp          4096 Nov  1  2011 plugins
+drwxr-xr-x   5 ftp      ftp          4096 Nov  1  2011 skins
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 wsc

@@ -1,0 +1,15 @@
+drwxr-xr-x  12 ftp      ftp          4096 Nov  1  2011 .
+drwxr-xr-x   4 ftp      ftp          4096 Nov  1  2011 ..
+drwxr-xr-x   4 ftp      ftp          4096 Nov  1  2011 _plugins
+drwxr-xr-x   3 ftp      ftp          4096 Nov  1  2011 adobeair
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 afp
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 asp
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 cfm
+-rw-r--r--   1 ftp      ftp          1085 Nov  1  2011 default.html
+drwxr-xr-x   3 ftp      ftp          4096 Nov  1  2011 html
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 lasso
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 perl
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 php
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 py
+-rw-r--r--   1 ftp      ftp          1370 Nov  1  2011 sample.css
+-rw-r--r--   1 ftp      ftp          5738 Nov  1  2011 sampleslist.html

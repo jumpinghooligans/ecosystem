@@ -1,0 +1,6 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jun 13  2010 .
+drwxr-xr-x   4 ftp      ftp          4096 Apr 17  2011 ..
+lrwxrwxrwx   1 ftp      ftp            27 Jun 13  2010 index.cgi -> /www/apps/urchin/urchin.cgi
+drwxr-xr-x   2 ftp      ftp          4096 Apr  2  2011 udata
+lrwxrwxrwx   1 ftp      ftp            24 Jun 13  2010 ugroups -> /www/apps/urchin/ugroups
+lrwxrwxrwx   1 ftp      ftp            23 Jun 13  2010 uicons -> /www/apps/urchin/uicons

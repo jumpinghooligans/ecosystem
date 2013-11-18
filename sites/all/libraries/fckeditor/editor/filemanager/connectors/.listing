@@ -1,0 +1,11 @@
+drwxr-xr-x   9 ftp      ftp          4096 Nov  1  2011 .
+drwxr-xr-x   4 ftp      ftp          4096 Nov  1  2011 ..
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 asp
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 aspx
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 cfm
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 lasso
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 perl
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 php
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 py
+-rw-r--r--   1 ftp      ftp          5462 Nov  1  2011 test.html
+-rw-r--r--   1 ftp      ftp          5388 Nov  1  2011 uploadtest.html

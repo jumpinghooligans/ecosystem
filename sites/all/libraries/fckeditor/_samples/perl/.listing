@@ -1,0 +1,7 @@
+drwxr-xr-x   2 ftp      ftp          4096 Nov  1  2011 .
+drwxr-xr-x  12 ftp      ftp          4096 Nov  1  2011 ..
+-rw-r--r--   1 ftp      ftp          3213 Nov  1  2011 sample01.cgi
+-rw-r--r--   1 ftp      ftp          4869 Nov  1  2011 sample02.cgi
+-rw-r--r--   1 ftp      ftp          4460 Nov  1  2011 sample03.cgi
+-rw-r--r--   1 ftp      ftp          4670 Nov  1  2011 sample04.cgi
+-rw-r--r--   1 ftp      ftp          2787 Nov  1  2011 sampleposteddata.cgi
